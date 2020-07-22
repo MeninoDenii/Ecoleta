@@ -1,0 +1,1 @@
+Executar TypeScript: npm run dev
